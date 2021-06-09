@@ -47,7 +47,7 @@
 ![3gxgdx3](https://user-images.githubusercontent.com/68368104/121415301-8e0c7c80-c9a2-11eb-9fc1-2f599e793b92.PNG)
 
 #### Images and corresponding probability that predicted Right
-![3sdfs4](https://user-images.githubusercontent.com/68368104/121415559-d7f56280-c9a2-11eb-8472-59bd608bf989.PNG)
+![33333333](https://user-images.githubusercontent.com/68368104/121417080-7afaac00-c9a4-11eb-9872-7168ae5d1d91.PNG)
 
 #### Images and corresponding probability that predicted Wrong
-![33333333](https://user-images.githubusercontent.com/68368104/121417080-7afaac00-c9a4-11eb-9872-7168ae5d1d91.PNG)
+![3sfsd5](https://user-images.githubusercontent.com/68368104/121417178-92399980-c9a4-11eb-8d96-d1cd8a29f377.PNG)
